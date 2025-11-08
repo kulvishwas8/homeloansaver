@@ -231,8 +231,9 @@ st.markdown(f"   Visitor Count:   {visitor_count}")
 st.markdown("---")
 st.markdown("""
 <div style="text-align: center; color: #7f8c8d; padding: 2rem;">
-<p><strong>Disclaimer:</strong> This calculator provides estimates based on simplified assumptions. Consult your bank for accurate figures and other details.</p>
+<p><strong>Disclaimer:</strong> This application provides estimates based on simplified assumptions. Consult your bank for accurate figures and other details.</p>
 <p>Made by Vishwas Kulkarni (kulvishwas8) for smart financial planning</p>
 </div>
 """, unsafe_allow_html=True)
+
 
