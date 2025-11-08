@@ -4,7 +4,7 @@ import math
 
 # Page configuration
 st.set_page_config(
-    page_title="Home Loan Calculator",
+    page_title="Home Loan Saver",
     page_icon="",
     layout="wide"
 )
@@ -235,3 +235,4 @@ st.markdown("""
 <p>Made by Vishwas Kulkarni (kulvishwas8) for smart financial planning</p>
 </div>
 """, unsafe_allow_html=True)
+
